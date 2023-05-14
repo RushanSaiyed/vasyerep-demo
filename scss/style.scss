@@ -18,6 +18,10 @@ $newbg-clr :#00539F;
     font-family: $font-jakarta;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 // Navbar
 header {
     position: absolute;

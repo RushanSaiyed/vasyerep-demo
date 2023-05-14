@@ -4,8 +4,10 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Plus Jakarta Sans";
-  scroll-behavior: smooth;
+  
 }
+
+
 
 header {
   position: absolute;
